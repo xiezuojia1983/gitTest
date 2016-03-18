@@ -16,5 +16,9 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
         }
+        public void getMe()
+        {
+        
+        }
     }
 }
