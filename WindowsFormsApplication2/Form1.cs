@@ -16,14 +16,5 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
         }
-        public void getMe()
-        {
-        
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Hello");
-        }
     }
 }
